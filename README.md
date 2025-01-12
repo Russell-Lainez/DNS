@@ -27,7 +27,7 @@ In this demonstration, I will show how DNS functions by verifying A-Records, rel
 
 ![image](https://github.com/user-attachments/assets/679f0468-6113-4999-84cf-e16822f8b96a)
 
-3. To verify the A-record, I went back to the client computer and typed “nslookup mainframe” and “ping mainframe” to check the record. With the newly created A-Record, I successfully received back the private IP address of the domain controller.
+3. To track the A-record, I went back to the client computer and typed “nslookup mainframe” and “ping mainframe” to verify the A-record. I then successfully received back the private IP address of the domain controller.
 
 ![image](https://github.com/user-attachments/assets/178128d4-2863-493a-87cb-ac7439d9520a)
 
