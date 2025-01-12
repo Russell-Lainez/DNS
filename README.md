@@ -42,7 +42,7 @@ In this demonstration, I will show how DNS functions by verifying A-Records, rel
 ![image](https://github.com/user-attachments/assets/042581f1-5f18-4aa7-bb2a-3be97342140b)
 
 
-3. I typed “ipconfig /flushdns” to clear out the local cache.
+3. As an adminstrator, I typed “ipconfig /flushdns” to clear out the local cache.
 
 ![image](https://github.com/user-attachments/assets/c12522fd-5e80-4f63-9fbd-bae484f3faa3)
 
