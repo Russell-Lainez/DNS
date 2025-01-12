@@ -52,11 +52,11 @@ In this demonstration, I will show how DNS functions by verifying A-Records, rel
 
 <h3>CNAME Record</h3>
 
-1. To create a CNAME record, I went to the domain controller and created an A-record called “search” under the alias www.google.com
+1. To create a CNAME record, I went to the domain controller and created a new record called “search” under the alias "www.google.com."
 
 ![image](https://github.com/user-attachments/assets/d36af4a6-247d-4af6-98fc-5cf8861aa9b7)
 
-2. Back in the client computer, I pinged “search” and received google’s IP address. I then typed “nslookup search” and checked the alias and verified it reflects the alias is my.domain.com
+2. Back in the client computer, I typed “ping search” and received google’s IP address. I then typed “nslookup search” and observed the alias is under "my.domain.com."
 
 ![image](https://github.com/user-attachments/assets/518709aa-ccd0-436e-b6b1-71b18cb4df58)
 
