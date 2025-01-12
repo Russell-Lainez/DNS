@@ -23,7 +23,7 @@ In this demonstration, I will show how DNS functions by verifying A-Records, rel
 
 ![image](https://github.com/user-attachments/assets/0354a5b1-992e-49f1-ae69-2e5937eafcd4)
 
-2. Within the domain controller, I opened DNS manager and created an A-record named mainframe with the IP address of the domain controller (10.0.0.4).
+2. Within the domain controller, I opened DNS manager and created an A-record named "mainframe." For this A-record, I added the IP address of the domain controller (10.0.0.4).
 
 ![image](https://github.com/user-attachments/assets/679f0468-6113-4999-84cf-e16822f8b96a)
 
