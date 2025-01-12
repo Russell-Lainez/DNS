@@ -33,11 +33,11 @@ In this demonstration, I will show how DNS functions by verifying A-Records, rel
 
 <h3>Utilizing and Clearing DNS Cache</h3>
 
-1. To show how DNS cache functions, I changed the “mainframe” A-record to the random IP address of 8.8.8.8.
+1. To show how DNS cache functions, I changed the IP address of the “mainframe” A-record to 8.8.8.8.
 
 ![image](https://github.com/user-attachments/assets/68f8b12c-5882-4807-ac01-06cacc9736c1)
 
-2. I pinged the main from the client computer and verified it still provided the IP address of 10.0.0.4.
+2. From the client computer, I typed "ping mainframe" verified it still provided the IP address of 10.0.0.4.
    
 ![image](https://github.com/user-attachments/assets/042581f1-5f18-4aa7-bb2a-3be97342140b)
 
@@ -46,7 +46,7 @@ In this demonstration, I will show how DNS functions by verifying A-Records, rel
 
 ![image](https://github.com/user-attachments/assets/c12522fd-5e80-4f63-9fbd-bae484f3faa3)
 
-4. I pinged the mainframe again and now see the new IP address (8.8.8.8).
+4. I typed "ping mainframe" again and observed the new IP address (8.8.8.8).
 
 ![image](https://github.com/user-attachments/assets/3eca77cf-4ea1-449b-80fa-fa5cf67cddc3)
 
