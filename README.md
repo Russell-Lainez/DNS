@@ -1,7 +1,7 @@
 ![image](https://github.com/user-attachments/assets/f89dd5d5-7c63-4239-a373-6945f8145066)
 
 <h1>DNS and DNS Manager Demonstration</h1>
-In this demonstration, I will show how DNS functions by verifying A-Records, relying on the DNS cache, and creating a CNAME. 
+In this demonstration, I will show how DNS functions by verifying A-Records, relying on the DNS cache, and implementing a CNAME record. 
 
 
 <h2>Environments, Applications, and Services Used </h2>
