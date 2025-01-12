@@ -37,7 +37,7 @@ In this demonstration, I will show how DNS functions by verifying A-Records, rel
 
 ![image](https://github.com/user-attachments/assets/68f8b12c-5882-4807-ac01-06cacc9736c1)
 
-2. From the client computer, I typed "ping mainframe" verified it still provided the IP address of 10.0.0.4.
+2. From the client computer, I typed "ping mainframe" and verified it still provided the IP address of 10.0.0.4.
    
 ![image](https://github.com/user-attachments/assets/042581f1-5f18-4aa7-bb2a-3be97342140b)
 
