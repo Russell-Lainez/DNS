@@ -1,8 +1,7 @@
 ![image](https://github.com/user-attachments/assets/f89dd5d5-7c63-4239-a373-6945f8145066)
 
 <h1>Locating resources with DNS</h1>
-In this demonstration, I will show how DNS functions by verifying A-Records, relying on the DNS cache, and implementing a CNAME record. 
-
+In this demonstration, I will show how DNS functions to locate computer resources. This will be accomplished by verifying A records, relying on the DNS cache, and implementing a CNAME record. 
 
 <h2>Environments, Applications, and Services Used </h2>
 
